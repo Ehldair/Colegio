@@ -12,7 +12,8 @@ public class Teacher extends Person {
 		return b;
 	}
 	public boolean removeCourse(String course) {
-		
+		boolean b=true;
+		return b;
 	}
 	public String toString() {
 		return "Teacher: "+name+"("+ address+")";
